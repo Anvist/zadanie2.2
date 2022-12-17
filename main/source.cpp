@@ -6,7 +6,7 @@ return a + b;
 }
 double MySub(double a, double b)
 {
-//в разработке
+return a - b;
 }
 double MyMul(double a, double b)
 {
