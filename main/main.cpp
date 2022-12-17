@@ -20,15 +20,15 @@ cout << MySub(a, b) << endl;
 break;
 
 case '*':
-cout << 'начало'<< endl;
+cout << MyMul(a, b) << endl;
 break;
 
 case '/':
-cout << 'начало'<< endl;
+cout << MyDiv(a, b) << endl;
 break;
 
 default:
-cout << 'начало'<< endl;
+cout << "oshibka"<< endl;
 break;
 }
 
