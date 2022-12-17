@@ -16,7 +16,7 @@ cout << MySum(a, b) << endl;
 break;
 
 case '-':
-cout << 'начало'<< endl;
+cout << MySub(a, b) << endl;
 break;
 
 case '*':
