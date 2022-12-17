@@ -10,7 +10,7 @@ return a - b;
 }
 double MyMul(double a, double b)
 {
-//в разработке
+return a * b;
 }
 double MyDiv(double a, double b)
 {
